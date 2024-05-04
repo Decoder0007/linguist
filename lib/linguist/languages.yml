@@ -6306,6 +6306,14 @@ SPARQL:
   - ".sparql"
   - ".rq"
   language_id: 331
+SPWN:
+  type: programming
+  color: "#06C38A"
+  extensions:
+  - ".spwn"
+  tm_scope: source.spwn
+  ace_mode: text
+  language_id: 422
 SQF:
   type: programming
   color: "#3F3F3F"
